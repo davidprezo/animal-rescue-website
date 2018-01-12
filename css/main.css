@@ -4,15 +4,12 @@ html {
 }
 
 header {
-  background-color: #C14A17;
+  background-color: #c14a17;
 }
 
 h1 {
   font-family: 'Lobster', cursive;
   color: white;
-}
-
-nav {
 }
 
 header nav li a {
@@ -26,4 +23,8 @@ header nav li a {
 header nav li a:hover {
   color: #dbd3c0;
   transition: all 500ms ease;
+}
+
+footer {
+  background-color: #ddd8d0;
 }
