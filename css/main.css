@@ -1,6 +1,6 @@
 html {
   font-family: Open-Sans, serif;
-  font-family: 'Questrial', sans-serif;
+  font-family: "Questrial", sans-serif;
 }
 
 header {
@@ -8,7 +8,7 @@ header {
 }
 
 h1 {
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
   color: white;
 }
 
@@ -27,4 +27,12 @@ header nav li a:hover {
 
 footer {
   background-color: #ddd8d0;
+}
+
+.adopt-button {
+  background-color: #ddd;
+}
+
+#banner-content {
+  background-color: #ddd;
 }
